@@ -1,7 +1,7 @@
 # Cowboy 用户指南
 
 ## 解释
-### [现代web]()
+### [现代 web]()
 ### [Erlang 和 web]()
 
 ## 介绍
@@ -17,7 +17,7 @@
 ## Handlers
 ### [Handlers]()
 ### [Loop handlers]()
-### [静态文件]
+### [静态文件]()
 
 ## Request and response
 ### [Request 详情]()
