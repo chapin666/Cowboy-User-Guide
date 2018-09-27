@@ -20,7 +20,7 @@
 ### [静态文件](./chapter4/Static_files.md)
 
 ## Request and response
-### [Request 详情](./chapter5/Request_details.md)
+### [Request 对象](./chapter5/Request_details.md)
 ### [读取 request 内容](./chapter5/Reading_the_request_body.md)
 ### [发送 response](./chapter5/Sending_a_response.md)
 ### [使用 cookies](./chapter5/Using_cookies.md)
