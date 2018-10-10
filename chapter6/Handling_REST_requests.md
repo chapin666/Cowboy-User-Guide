@@ -71,6 +71,7 @@ variances	|[]
 ## Meta data
 
 Cowboy会在执行的各个点为Req对象设置信息值。 您可以通过直接匹配Req对象来检索它们。 值在下表中定义：
+
  Key |	Details
 |--------|--------|
 media_type|	The content-type negotiated for the response entity.
